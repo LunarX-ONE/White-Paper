@@ -19,6 +19,13 @@ In order to store, update and track these data structures, we developed DAG mode
 
 [Issue time] To be determined
 
+[White Paper Part I]: the theory, technical architecture. Committed.\\
+
+[White Paper Part II]: The business scenarios, processes and architecture. Coming soon.\\
+
+[White Paper Part III]: Team, token, Roadmap. Committed.\\
+
+
 [Official Site] https://github.com/LunarX-ONE/
 
 [White Paper] https://github.com/LunarX-ONE/White-Paper
