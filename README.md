@@ -16,3 +16,9 @@ In order to store, update and track these data structures, we developed DAG mode
 >Built upon several key distributed computation, cryptography and database techniques, LunarX is designed for serving such data management purpose.
 
 >It is a developing pilot project, hoping to contribute some ideas to the community.
+
+[Issue time] To be determined
+
+[Official Site] https://github.com/LunarX-ONE/
+[White Paper] https://github.com/LunarX-ONE/White-Paper
+[Telegram] https://t.me/LunarXOfficial 
