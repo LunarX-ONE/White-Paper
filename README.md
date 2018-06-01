@@ -20,5 +20,7 @@ In order to store, update and track these data structures, we developed DAG mode
 [Issue time] To be determined
 
 [Official Site] https://github.com/LunarX-ONE/
+
 [White Paper] https://github.com/LunarX-ONE/White-Paper
+
 [Telegram] https://t.me/LunarXOfficial 
