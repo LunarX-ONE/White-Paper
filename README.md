@@ -31,3 +31,5 @@ In order to manage these data structures and generate blocks, we developed DAG m
 [White Paper] https://github.com/LunarX-ONE/White-Paper
 
 [Telegram] https://t.me/LunarXOfficial 
+
+[Twitter] https://twitter.com/LunarXONE
