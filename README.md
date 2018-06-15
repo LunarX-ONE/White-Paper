@@ -24,7 +24,7 @@ In order to manage these data structures and generate blocks, we developed DAG m
 
 [White Paper Part II]: Chinese version. Submitted. 
 
-[White Paper Part III]: Team, token, Roadmap. Submitted. 
+[White Paper Part III]: Team, token, Roadmap. Merged to Part II. 
 
 
 [Official Site] https://LunarX.co
