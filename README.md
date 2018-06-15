@@ -18,13 +18,13 @@ In order to manage these data structures and generate blocks, we developed DAG m
 
 [Issue time] To be determined
 
-[White Paper Part I]: the theory, technical architecture. Committed. 
+[White Paper Part I]: the theory, technical architecture. Submitted. 
 
-[White Paper Part II]: The business scenarios, processes and architecture. Committed. 
+[White Paper Part II]: The business scenarios, processes and architecture. Submitted. 
 
-[White Paper Part II]: Chinese version. Committed. 
+[White Paper Part II]: Chinese version. Submitted. 
 
-[White Paper Part III]: Team, token, Roadmap. Committed. 
+[White Paper Part III]: Team, token, Roadmap. Submitted. 
 
 
 [Official Site] https://LunarX.co
