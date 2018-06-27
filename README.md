@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/White--Paper-v0.6.0-green.svg)
 
->LunarX is an universal middleware, designed to build a decentralized, scalable, temper proof, anonymous and autonomous data management infrastructure for decentralized applications(DApp) and their users. 
+>LunarX is an universal middleware, designed to build a decentralized, scalable, temper proof, anonymous and autonomous data chain infrastructure for decentralized applications(DApp) and their users. 
 
 >It knits individual nodes together, serving upper layer applications with uniform data chain functionality, and every peer joining the LunarX network becomes a part of the whole data service system.
 
@@ -10,9 +10,7 @@
 
 >Some of these data is structured, other is unstructured. We propose an algebraic definition of commutative map to study these data structures within a uniform framework, and to see when given a data structure, 
 which kind of encryption schemes are commutative with it, and how to construct a possible scheme.
-In order to manage these data structures and generate blocks, we developed DAG model for these purposes.
-
->Built upon several key distributed computation, cryptography and database techniques, LunarX is designed for serving such data management purpose.
+In order to manage these data structures and generate blocks, we developed DAG model for these purposes. 
 
 >It is a developing pilot project, hoping to contribute some ideas to the community.
 
